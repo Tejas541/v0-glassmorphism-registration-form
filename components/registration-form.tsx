@@ -57,18 +57,18 @@ export default function RegistrationForm() {
         {/* Speaker Photo with Glow */}
         <div className="relative mb-6">
           <div className="absolute inset-0 rounded-full bg-gradient-to-r from-[#FF6B35] via-[#D6336C] to-[#FF6B35] blur-md opacity-70 animate-pulse" />
-          <div className="relative w-36 h-36 rounded-full border-4 border-[#FF6B35] overflow-hidden">
-            <img src="/images/speaker.png" alt="Speaker" className="w-full h-full object-cover" />
+          <div className="relative w-48 h-48 rounded-full border-4 border-[#FF6B35] overflow-hidden">
+            <img src="/images/speaker.jpeg" alt="Speaker" className="w-full h-full object-cover" />
           </div>
         </div>
 
         {/* Headlines */}
         <p className="text-[#FF6B35] text-xs uppercase tracking-[0.3em] mb-2">Keynote Speaker and Guest </p>
-        <h1 className="text-white text-3xl font-bold text-center mb-4"> PRANAV GANDHE </h1>
+        <h1 className="text-white text-3xl font-bold text-center mb-4"> MR. MAYUR PATEL </h1>
 
         {/* Bio Description */}
         <p className="text-gray-400 text-center text-sm leading-relaxed mb-8 px-4">
-          From a curious college student to a successful entrepreneur, Pranav Sir shares his transformative journey of
+          From a curious college student to a successful entrepreneur, Mayur Sir shares his transformative journey of
           building successful startups while still in university. Discover the mindset shifts, practical strategies, and
           real-world lessons that can help you make your own leap from Student to Studentpreneur.
         </p>
