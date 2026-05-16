@@ -77,7 +77,7 @@ export default function RegistrationForm() {
           Student to Studentpreneur 🚀
         </h2>
         <p className="text-green-400 text-sm mt-1 font-medium">
-          Offline Conference - 1st May 2026
+          Offline Conference - 17th May 2026
         </p>
       </div>
 
